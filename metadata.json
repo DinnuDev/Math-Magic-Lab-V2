@@ -1,0 +1,6 @@
+{
+  "name": "Math Magic Lab",
+  "description": "An interactive, educational math magic lab containing classic mind-reading tricks, probability simulations, logic puzzles, and mathematical games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
